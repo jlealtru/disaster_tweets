@@ -1,0 +1,3 @@
+root -INFO - We completed epoch 1 with a training loss of 0.02314252033829689         a training accuracy of 75.00%, Validation         loss is 0.37527209520339966 and validation accuracy is 84.82%
+root -INFO - We completed epoch 2 with a training loss of 0.01765492744743824         a training accuracy of 79.17%, Validation         loss is 0.3633836805820465 and validation accuracy is 84.69%
+root -INFO - We completed epoch 3 with a training loss of 0.014671101234853268         a training accuracy of 95.83%, Validation         loss is 0.4027683734893799 and validation accuracy is 82.98%
